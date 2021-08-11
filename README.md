@@ -1,8 +1,10 @@
 # Diabetes Incidence Around the Globe
 
-Globally, diabetes has been on the increase due to many factors. In this project I tackle how much this disease has increased in the last decade, and how has it increased compared to population growth for each country. Being a person that suffers from this disease, it interests me how it has been on the increase globally and this project showcases this interest as well as my desire to show my results to everyone.
+Globally, diabetes has been on the increase due to many factors. In this project I tackle how much this disease has increased in the last decade, and how has it increased compared to population growth for each country. Being a person that suffers from this disease, it interests me how it has been on the increase globally and this project showcases this interest as well as my desire to show my results to everyone. 
 
-## Technologies Used and Complexities of the Project
+In this project I used Python as my programming language paired with several libraries such as `Selenium` and `BeautifulSoup` to retrieve the most up to date information regarding diabetes and the population globally. As well, I used `Tableau` to showcase my findings in a dashboard which is included in the .twbx file. The two libraries `Selenium` and `BeautifulSoup` and `Tableau` were all new to me before this project and I go more in depth of the learning curve in the [Technologies](#tech) subsection of this README file.
+
+## Technologies Used and Complexities of the Project <a class="anchor" id="#tech"></a>
 
 The technologies used in the project were Tableau, Excel and the programming language Python, were I used many libraries. These libraries were:
 
@@ -34,7 +36,7 @@ If you want to see the code files where I extracted the information from the IDF
 - *Population, Total*, electronic dataset, The World Bank, accessed 22 July 2021, <https://data.worldbank.org/indicator/SP.POP.TOTL?name_desc=false&view=map&year=2019> 
 - *IDF diabetes ATLAS 9th edition*, electronic dataset, IDF Diabetes Atlas 9th Edition, accessed 22 July 2021, <https://diabetesatlas.org/data/en/>.
 - *Country Codes 2021*, electronic dataset, World Population Review, accessed 8 August 2021, <https://worldpopulationreview.com/country-rankings/country-codes>
-- *Countries in the World by Population (2021)*, electronic dataset, Worlometer, accessed 8 August 2021, <https://www.worldometers.info/world-population/population-by-country/>
+- *Countries in the World by Population (2021)*, electronic dataset, Worldometer, accessed 8 August 2021, <https://www.worldometers.info/world-population/population-by-country/>
 
 ## License
 
