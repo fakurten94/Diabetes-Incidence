@@ -38,5 +38,6 @@ If you want to see the code files where I extracted the information from the IDF
 - *Country Codes 2021*, electronic dataset, World Population Review, accessed 8 August 2021, <https://worldpopulationreview.com/country-rankings/country-codes>
 - *Countries in the World by Population (2021)*, electronic dataset, Worldometer, accessed 8 August 2021, <https://www.worldometers.info/world-population/population-by-country/>
 
+____
 
-Licensed under the [Creative Commons CC0 Public Domain Dedication](LICENSE)
+Licensed under the [Creative Commons CC0 Public Domain Dedication](https://github.com/fakurten94/Diabetes-Incidence/blob/main/LICENSE.txt)
