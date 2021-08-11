@@ -31,7 +31,7 @@ If you want to see the code files where I extracted the information from the IDF
 
 ## References
 
-
+- *IDF diabetes ATLAS 9th edition*, electronic dataset, IDF Diabetes Atlas 9th Edition, accessed 22 July 2021, <https://diabetesatlas.org/data/en/>.
 
 ## License
 
