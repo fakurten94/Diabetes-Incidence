@@ -25,7 +25,7 @@ Once I got all the information, I needed to merge the Diabetes data to the ISO 3
 
 The last thing which I had no experience with was using `Tableau` to create a dashboard. I had used in the past `Spotfire` as my BI software and it resembled a lot to `Tableau`. As soon as I cleaned the diabetes dataset merged with the population dataset, I exported the .csv file to `Tableau` and generated different visualizations and created new calculated columns such as the Percentage Increase of Population and Diabetes in the Last Decade and the Difference in Diabetes and Population Increase for each country in the dataset. This resulted in some map visualizations that can be seen where the Red colored countries indicate Diabetes increase is greater than the Population increase and the Blue colored ones indicated that Population increase is higher than the Diabetes increase. Refer to the screenshot below. On average, the diabetes increased globally 64.29% as compared to the population which increased 13.09% in the last decade.
 
-![alt text](Map.png "Global Diabetes Incidence")
+![Global Diabetes Incidence](Map.png "Global Diabetes Incidence")
 
 ## How to Open Project
 
