@@ -27,6 +27,8 @@ The last thing which I had no experience with was using `Tableau` to create a da
 
 ![Global Diabetes Incidence](Map.png "Global Diabetes Incidence")
 
+Note that the grey colored countries are countries where there was no diabetes information.
+
 ## How to Open Project
 
 The first thing you would want to do is open the `Tableau` .twbx file where you will find the dashboard and be able to interact with the visualization. You can click on any country and the information for that particular country will show in the CrossTable below the Map visualization. Alternatively, you may want to visualize the data for a particular country by hovering on top of the country in the Map. 
