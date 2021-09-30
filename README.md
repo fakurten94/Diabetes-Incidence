@@ -2,7 +2,7 @@
 
 Globally, diabetes has been on the increase due to many factors. In this project I tackle how much this disease has increased in the last decade, and how has it increased compared to population growth for each country. Being a person that suffers from this disease, it interests me how it has been on the increase globally and this project showcases this interest as well as my desire to show my results to everyone. 
 
-In this project I used Python as my programming language paired with several libraries such as `Selenium` and `BeautifulSoup` to retrieve the most up to date information regarding diabetes and the population globally from the last decade. As well, I used `Tableau` to showcase my findings in a dashboard which is included in the .twbx file. The two libraries (`Selenium` and `BeautifulSoup`) and `Tableau` were all new to me before this project and I go more in depth of the learning curve in the Technologies subsection of this README file.
+In this project I used Python as my programming language paired with several libraries such as `Selenium` and `BeautifulSoup` to retrieve the most up to date information regarding diabetes and the population globally from the last decade. As well, I used `Tableau` to showcase my findings in a dashboard which is included in the .twbx file. The two Python libraries for web scrapping (`Selenium` and `BeautifulSoup`) and `Tableau` were all new to me before this project and I go more in depth of the learning curve in the Technologies subsection of this README file.
 
 ## Technologies Used and Complexities of the Project
 
